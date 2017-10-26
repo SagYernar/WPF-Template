@@ -1,0 +1,15 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\bin\Debug\NewTemplate.exe.config
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\bin\Debug\NewTemplate.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\bin\Debug\NewTemplate.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate.csprojResolveAssemblyReference.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\MainWindow.g.cs
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\App.g.cs
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate_MarkupCompile.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate_MarkupCompile.lref
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\App.baml
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\MainWindow.baml
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate.g.resources
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate.Properties.Resources.resources
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate.csproj.GenerateResource.Cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\NewTemplate\NewTemplate\obj\Debug\NewTemplate.pdb
